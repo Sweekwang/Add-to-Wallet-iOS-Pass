@@ -1,11 +1,11 @@
 # Pass to Wallet
 Resource: 
 
-- [Building Your First Pass (Outdated)]("https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/PassKit_PG/YourFirst.html#//apple_ref/doc/uid/TP40012195-CH2-SW1")
+- [Building Your First Pass](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/PassKit_PG/YourFirst.html#//apple_ref/doc/uid/TP40012195-CH2-SW1)
 - [Node JS package for backend](https://www.npmjs.com/package/passkit-generator/v/2.0.8)
 
 Design: 
-- [Pass Design and Creation]("https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/PassKit_PG/Creating.html#//apple_ref/doc/uid/TP40012195-CH4-SW1")
+- [Pass Design and Creation](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/PassKit_PG/Creating.html#//apple_ref/doc/uid/TP40012195-CH4-SW1)
 
 
 ## Types of card/pass
